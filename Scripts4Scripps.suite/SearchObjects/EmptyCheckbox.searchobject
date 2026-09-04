@@ -1,0 +1,47 @@
+{
+	"lastmodifieddate": 1788478109.9579999,
+	"lastfoundlocation": [
+		72,
+		326,
+		19,
+		19
+	],
+	"originalcapturelocation": [
+		72,
+		326,
+		19,
+		19
+	],
+	"createddate": 1788478109.9579999,
+	"lastfounddate": 1788479294.0900002,
+	"testlocationdata": [
+		{
+				"connectionportnum": 55364,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[8,11]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"Type": "RDP",
+					"epgw_path": "C:\\Users\\davihest\\epgw.26.3.3-0048\\epgw.exe"
+				},
+				"name": "EmptyCheckbox.png",
+				"connectionname": "NewTower",
+				"type": 1,
+				"capturerect": [
+					72,
+					326,
+					19,
+					19
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "DESKTOP-3ODRJVP"
+			}
+	],
+	"name": "EmptyCheckbox"
+}

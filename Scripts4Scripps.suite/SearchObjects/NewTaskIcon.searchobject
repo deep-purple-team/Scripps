@@ -1,0 +1,47 @@
+{
+	"lastmodifieddate": 1788478513.9910002,
+	"lastfoundlocation": [
+		12,
+		73,
+		17,
+		17
+	],
+	"originalcapturelocation": [
+		12,
+		73,
+		17,
+		17
+	],
+	"createddate": 1788478513.9910002,
+	"lastfounddate": 1788479279.533,
+	"testlocationdata": [
+		{
+				"connectionportnum": 55364,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[9,6]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"Type": "RDP",
+					"epgw_path": "C:\\Users\\davihest\\epgw.26.3.3-0048\\epgw.exe"
+				},
+				"name": "NewTaskIcon.png",
+				"connectionname": "NewTower",
+				"type": 1,
+				"capturerect": [
+					12,
+					73,
+					17,
+					17
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "DESKTOP-3ODRJVP"
+			}
+	],
+	"name": "NewTaskIcon"
+}

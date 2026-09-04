@@ -1,0 +1,141 @@
+{
+	"entries": [
+		{
+				"message": "Running FindAndReplace.script",
+				"identifier": "START",
+				"timestamp": "2026-09-03 19:39:00.362 -0400"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:39:00.512 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "found at (21, 79)",
+				"image": "NewTaskIcon",
+				"handlerLine": 1,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:39:00.555 -0400",
+				"message": "[controlKey]f",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:39:04.479 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (119, 123)",
+				"image": "(TEXT:\"Replace\")",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:39:08.570 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (108, 196)",
+				"image": "(TEXT:\"Type text to find\")",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:39:08.956 -0400",
+				"message": "Test Test[tab]",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:39:13.177 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (117, 262)",
+				"image": "(TEXT:\"Type text to replace\")",
+				"handlerLine": 11,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:39:13.409 -0400",
+				"message": "     ",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 12,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:39:13.719 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (80, 337)",
+				"image": "EmptyCheckbox",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:39:14.015 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (204, 299)",
+				"image": "ReplaceButton_Active",
+				"handlerLine": 14,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:39:14.310 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (213, 195)",
+				"image": "FindText_X",
+				"handlerLine": 15,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:39:15.685 -0400",
+				"message": "Salvatore Pacella, M.D., M.B.A., F.A,C.S.[tab]",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:39:19.973 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (117, 262)",
+				"image": "(TEXT:\"Type text to replace\")",
+				"handlerLine": 11,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:39:20.206 -0400",
+				"message": "     ",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 12,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:39:31.921 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "No Image Found On Screen: \"EmptyCheckbox\"",
+				"image": "EmptyCheckbox",
+				"handlerLine": 13,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"31.64\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2026-09-03 19:39:00 -0400\", Successes:\"0\", TestCase:\"FindAndReplace.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-09-03 19:39:32.005 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:31 FindAndReplace.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-09-03 19:39:32.013 -0400"
+			}
+	],
+	"createdTimestamp": "2026-09-03 19:39:00.364 -0400"
+}

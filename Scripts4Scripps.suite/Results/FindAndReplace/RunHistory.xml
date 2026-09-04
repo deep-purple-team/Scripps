@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="FindAndReplace">
+ <run>
+  <RunDate>2026-09-03 19:25:14.387 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.078000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260903_192514.387/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:35:22.843 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>17.623000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260903_193522.843/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:36:22.899 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>33.524000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260903_193622.899/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:37:03.682 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>29.401000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260903_193703.682/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:37:44.566 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>37.477000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260903_193744.566/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:39:00.359 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>31.645000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260903_193900.359/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:41:14.099 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>28.273000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260903_194114.099/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:42:08.353 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>23.334000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260903_194208.353/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:45:34.193 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>24.722000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260903_194534.193/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:47:59.417 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>15.452000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260903_194759.417/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

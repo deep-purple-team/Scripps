@@ -1,0 +1,5 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+SaveAndClose,Success,1,0,2026-09-03 19:49:00 -0400,2026-09-03 19:49:00 -0400,0:00:00
+FindAndReplace,Success,2,0,2026-09-03 19:25:14 -0400,2026-09-03 19:47:59 -0400,0:00:07
+LaunchFineReader,Success,6,0,2026-09-03 19:17:31 -0400,2026-09-03 19:47:17 -0400,0:00:02
+OpenPDF,Success,7,0,2026-09-03 19:19:19 -0400,2026-09-03 19:47:47 -0400,0:00:07

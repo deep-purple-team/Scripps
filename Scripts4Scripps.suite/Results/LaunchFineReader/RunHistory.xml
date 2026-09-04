@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="LaunchFineReader">
+ <run>
+  <RunDate>2026-09-03 19:17:31.670 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>1.879000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260903_191731.670/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:24:12.413 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>1.866000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260903_192412.413/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:34:15.886 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>1.856000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260903_193415.886/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:40:34.420 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>1.901000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260903_194034.420/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:44:09.955 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>1.848000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260903_194409.955/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:47:17.329 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>4.146000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260903_194717.329/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

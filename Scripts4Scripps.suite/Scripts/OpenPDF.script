@@ -1,0 +1,10 @@
+﻿params myFileNameWithPath
+
+WaitFor 10, (text:"Open and Edit", caseSensitive:"Yes")
+
+TypeText ControlKey,"o"
+Wait 1
+WaitFor 5.0, (Text:"Select Files to Open", caseSensitive:"Yes")
+TypeText , Return
+
+

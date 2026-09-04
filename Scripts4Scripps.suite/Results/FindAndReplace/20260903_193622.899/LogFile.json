@@ -1,0 +1,64 @@
+{
+	"entries": [
+		{
+				"message": "Running FindAndReplace.script",
+				"identifier": "START",
+				"timestamp": "2026-09-03 19:36:22.902 -0400"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:36:23.046 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "found at (21, 79)",
+				"image": "NewTaskIcon",
+				"handlerLine": 1,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:36:23.102 -0400",
+				"message": "[controlKey]f",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:36:27.404 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (119, 123)",
+				"image": "(TEXT:\"Replace\")",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:36:31.725 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (108, 196)",
+				"image": "(TEXT:\"Type text to find\")",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:36:35.850 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (118, 262)",
+				"image": "(TEXT:\"Type text to replace\")",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"33.519\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-09-03 19:36:22 -0400\", Successes:\"0\", TestCase:\"FindAndReplace.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-09-03 19:36:56.424 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:33 FindAndReplace.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-09-03 19:36:56.436 -0400"
+			}
+	],
+	"createdTimestamp": "2026-09-03 19:36:22.904 -0400"
+}

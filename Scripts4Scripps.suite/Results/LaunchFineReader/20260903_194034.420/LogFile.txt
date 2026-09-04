@@ -1,0 +1,6 @@
+﻿2026-09-03 19:40:34.424 -0400	START		Running LaunchFineReader.script
+2026-09-03 19:40:34.537 -0400	typetext		[windowsKey]r	1	on_launchfinereader	LaunchFineReader.script
+2026-09-03 19:40:36.203 -0400	typetext		c:\Program Files\ABBYY FineReader 16\FineReader.exe	2	on_launchfinereader	LaunchFineReader.script
+2026-09-03 19:40:36.311 -0400	typetext		[enter]	3	on_launchfinereader	LaunchFineReader.script
+2026-09-03 19:40:36.322 -0400	EndTestCase		(Duration:"1.896", Errors:"0", Exceptions:"0", StartTime:"2026-09-03 19:40:34 -0400", Successes:"1", TestCase:"LaunchFineReader.script", Warnings:"0")
+2026-09-03 19:40:36.370 -0400	SUCCESS		Execution Time 0:00:01 LaunchFineReader.script

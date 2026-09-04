@@ -1,0 +1,18 @@
+﻿WaitFor 30.0, "NewTaskIcon"
+
+TypeText ControlKey,"f"
+Set the SearchRectangle to (3,105,249,555)
+Click (Text:"Replace", caseSensitive:"Yes", WaitFor:5)
+Click (Text:"Type text to find", caseSensitive:"Yes", WaitFor:5)
+
+Put ["Test Test","Salvatore Pacella, M.D., M.B.A, F.A.C.S.","Salvatore J. Pacella, M.D., M.B.A, F.A.C.S.","4/6/2026"] into myTextToReplaceList
+
+Repeat with each item myCurrentSearchTerm of myTextToReplaceList
+	TypeText myCurrentSearchTerm,Tab
+	Click (Text:"Type text to replace", caseSensitive:"Yes", WaitFor:5)
+	TypeText space,space,space,space,space
+	Click (Image:"EmptyCheckbox", WaitFor:1)
+	Click (Image:"ReplaceButton_Active", WaitFor:1)
+	Click (Image:"FindText_X", WaitFor:1)
+End Repeat
+

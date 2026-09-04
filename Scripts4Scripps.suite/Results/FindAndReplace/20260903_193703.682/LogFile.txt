@@ -1,0 +1,11 @@
+﻿2026-09-03 19:37:03.686 -0400	START		Running FindAndReplace.script
+2026-09-03 19:37:03.827 -0400	waitfor	NewTaskIcon	found at (21, 79)	1	on_findandreplace	FindAndReplace.script
+2026-09-03 19:37:03.870 -0400	typetext		[controlKey]f	3	on_findandreplace	FindAndReplace.script
+2026-09-03 19:37:07.819 -0400	click	(TEXT:"Replace")	at (119, 123)	4	on_findandreplace	FindAndReplace.script
+2026-09-03 19:37:11.791 -0400	click	(TEXT:"Type text to find")	at (108, 196)	5	on_findandreplace	FindAndReplace.script
+2026-09-03 19:37:29.377 -0400	click	(TEXT:"Type text to replace")	at (118, 262)	8	on_findandreplace	FindAndReplace.script
+2026-09-03 19:37:29.762 -0400	typetext		Test Test[tab]	10	on_findandreplace	FindAndReplace.script
+2026-09-03 19:37:29.994 -0400	typetext		     	11	on_findandreplace	FindAndReplace.script
+2026-09-03 19:37:33.010 -0400	Exception	EmptyCheckbox	No Image Found On Screen: "EmptyCheckbox"	12	on_findandreplace	FindAndReplace.script
+2026-09-03 19:37:33.084 -0400	EndTestCase		(Duration:"29.395", Errors:"1", Exceptions:"1", StartTime:"2026-09-03 19:37:03 -0400", Successes:"0", TestCase:"FindAndReplace.script", Warnings:"0")
+2026-09-03 19:37:33.094 -0400	ABORTED		Execution Time 0:00:29 FindAndReplace.script

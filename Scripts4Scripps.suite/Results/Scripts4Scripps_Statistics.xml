@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="SaveAndClose">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2026-09-03 19:49:00 -0400</FirstRun>
+  <LastRun>2026-09-03 19:49:00 -0400</LastRun>
+  <TotalTimeOnSuccess>0.107000</TotalTimeOnSuccess>
+ </script>
+ <script name="FindAndReplace">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2026-09-03 19:25:14 -0400</FirstRun>
+  <LastRun>2026-09-03 19:47:59 -0400</LastRun>
+  <TotalTimeOnSuccess>15.530000</TotalTimeOnSuccess>
+ </script>
+ <script name="LaunchFineReader">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2026-09-03 19:17:31 -0400</FirstRun>
+  <LastRun>2026-09-03 19:47:17 -0400</LastRun>
+  <TotalTimeOnSuccess>13.496000</TotalTimeOnSuccess>
+ </script>
+ <script name="OpenPDF">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2026-09-03 19:19:19 -0400</FirstRun>
+  <LastRun>2026-09-03 19:47:47 -0400</LastRun>
+  <TotalTimeOnSuccess>55.805000</TotalTimeOnSuccess>
+ </script>
+</statistics>

@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running OpenPDF.script",
+				"identifier": "START",
+				"timestamp": "2026-09-03 19:19:19.322 -0400"
+			},
+		{
+				"handlerName": "on_openpdf",
+				"timestamp": "2026-09-03 19:19:19.383 -0400",
+				"message": "[controlKey]o",
+				"scriptName": "OpenPDF.script",
+				"handlerLine": 1,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"0.075\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-09-03 19:19:19 -0400\", Successes:\"1\", TestCase:\"OpenPDF.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-09-03 19:19:19.401 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:00 OpenPDF.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-09-03 19:19:19.437 -0400"
+			}
+	],
+	"createdTimestamp": "2026-09-03 19:19:19.325 -0400"
+}

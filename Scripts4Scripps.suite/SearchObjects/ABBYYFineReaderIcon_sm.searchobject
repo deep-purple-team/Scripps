@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		2,
+		3,
+		16,
+		16
+	],
+	"lastmodifieddate": 1788479098.642,
+	"createddate": 1788479098.642,
+	"name": "ABBYYFineReaderIcon_sm",
+	"lastfounddate": 1788479241.415,
+	"ocrcapturestring": "@",
+	"lastfoundlocation": [
+		2,
+		3,
+		16,
+		16
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 55364,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[9,6]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"Type": "RDP",
+					"epgw_path": "C:\\Users\\davihest\\epgw.26.3.3-0048\\epgw.exe"
+				},
+				"name": "ABBYYFineReaderIcon_sm.png",
+				"connectionname": "NewTower",
+				"type": 1,
+				"connectionserverid": "DESKTOP-3ODRJVP",
+				"capturerect": [
+					2,
+					3,
+					16,
+					16
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "@"
+			}
+	]
+}

@@ -1,0 +1,11 @@
+﻿
+
+set myFileNameWithPath to ["C:\MyFiles\Breast Augmentation Subgland Saline Consent.pdf"]
+
+LaunchFineReader
+
+Repeat with each item myFileNameWithPath of myFileNameWithPathList
+	OpenPDF myFileNameWithPath
+	FindAndReplace
+	SaveAndClose
+End Repeat

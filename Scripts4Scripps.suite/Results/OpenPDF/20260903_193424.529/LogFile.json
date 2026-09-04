@@ -1,0 +1,45 @@
+{
+	"entries": [
+		{
+				"message": "Running OpenPDF.script",
+				"identifier": "START",
+				"timestamp": "2026-09-03 19:34:24.533 -0400"
+			},
+		{
+				"handlerName": "on_openpdf",
+				"timestamp": "2026-09-03 19:34:24.615 -0400",
+				"message": "[controlKey]o",
+				"scriptName": "OpenPDF.script",
+				"handlerLine": 1,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openpdf",
+				"timestamp": "2026-09-03 19:34:32.258 -0400",
+				"scriptName": "OpenPDF.script",
+				"message": "found at (89, 39)",
+				"image": "(TEXT:\"Select Files to Open\")",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_openpdf",
+				"timestamp": "2026-09-03 19:34:34.091 -0400",
+				"message": "C:\\MyFiles\\Breast Augmentation Subgland Saline Consent.pdf[return]",
+				"scriptName": "OpenPDF.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"9.574\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-09-03 19:34:24 -0400\", Successes:\"1\", TestCase:\"OpenPDF.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-09-03 19:34:34.109 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:09 OpenPDF.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-09-03 19:34:34.160 -0400"
+			}
+	],
+	"createdTimestamp": "2026-09-03 19:34:24.535 -0400"
+}

@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		170,
+		286,
+		61,
+		30
+	],
+	"lastmodifieddate": 1788478145.506,
+	"createddate": 1788478145.506,
+	"name": "ReplaceButton_Active",
+	"lastfounddate": 1788479294.4000001,
+	"ocrcapturestring": "Replace",
+	"lastfoundlocation": [
+		170,
+		286,
+		61,
+		30
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 55364,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[34,13]",
+					"Tolerance": "_64",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"epgw_path": "C:\\Users\\davihest\\epgw.26.3.3-0048\\epgw.exe",
+					"Type": "RDP"
+				},
+				"name": "ReplaceButton_Active.png",
+				"connectionname": "NewTower",
+				"type": 1,
+				"connectionserverid": "DESKTOP-3ODRJVP",
+				"capturerect": [
+					170,
+					286,
+					61,
+					30
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Replace"
+			}
+	]
+}

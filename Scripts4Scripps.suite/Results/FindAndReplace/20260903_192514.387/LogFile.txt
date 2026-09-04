@@ -1,0 +1,4 @@
+﻿2026-09-03 19:25:14.392 -0400	START		Running FindAndReplace.script
+2026-09-03 19:25:14.452 -0400	typetext		[controlKey]f	1	on_findandreplace	FindAndReplace.script
+2026-09-03 19:25:14.466 -0400	EndTestCase		(Duration:"0.072", Errors:"0", Exceptions:"0", StartTime:"2026-09-03 19:25:14 -0400", Successes:"1", TestCase:"FindAndReplace.script", Warnings:"0")
+2026-09-03 19:25:14.511 -0400	SUCCESS		Execution Time 0:00:00 FindAndReplace.script

@@ -1,0 +1,4 @@
+﻿2026-09-03 19:19:19.322 -0400	START		Running OpenPDF.script
+2026-09-03 19:19:19.383 -0400	typetext		[controlKey]o	1	on_openpdf	OpenPDF.script
+2026-09-03 19:19:19.401 -0400	EndTestCase		(Duration:"0.075", Errors:"0", Exceptions:"0", StartTime:"2026-09-03 19:19:19 -0400", Successes:"1", TestCase:"OpenPDF.script", Warnings:"0")
+2026-09-03 19:19:19.437 -0400	SUCCESS		Execution Time 0:00:00 OpenPDF.script

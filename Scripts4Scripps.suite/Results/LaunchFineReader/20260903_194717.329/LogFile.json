@@ -1,0 +1,53 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchFineReader.script",
+				"identifier": "START",
+				"timestamp": "2026-09-03 19:47:17.334 -0400"
+			},
+		{
+				"handlerName": "on_launchfinereader",
+				"timestamp": "2026-09-03 19:47:17.406 -0400",
+				"message": "[windowsKey]r",
+				"scriptName": "LaunchFineReader.script",
+				"handlerLine": 1,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchfinereader",
+				"timestamp": "2026-09-03 19:47:19.051 -0400",
+				"message": "c:\\Program Files\\ABBYY FineReader 16\\FineReader.exe",
+				"scriptName": "LaunchFineReader.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchfinereader",
+				"timestamp": "2026-09-03 19:47:19.158 -0400",
+				"message": "[enter]",
+				"scriptName": "LaunchFineReader.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchfinereader",
+				"timestamp": "2026-09-03 19:47:21.418 -0400",
+				"scriptName": "LaunchFineReader.script",
+				"message": "found at (11, 9)",
+				"image": "ABBYYFineReaderIcon_sm",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"message": "(Duration:\"4.14\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-09-03 19:47:17 -0400\", Successes:\"1\", TestCase:\"LaunchFineReader.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-09-03 19:47:21.476 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:04 LaunchFineReader.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-09-03 19:47:21.525 -0400"
+			}
+	],
+	"createdTimestamp": "2026-09-03 19:47:17.336 -0400"
+}

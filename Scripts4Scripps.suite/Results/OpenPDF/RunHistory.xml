@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="OpenPDF">
+ <run>
+  <RunDate>2026-09-03 19:19:19.319 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.081000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260903_191919.319/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:22:34.882 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>10.562000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260903_192234.882/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:24:21.117 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>9.634000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260903_192421.117/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:34:24.529 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>9.579000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260903_193424.529/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:40:46.801 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>9.508000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260903_194046.801/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:45:14.215 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>9.321000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260903_194514.215/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-03 19:47:47.032 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>7.120000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260903_194747.032/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

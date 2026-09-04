@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		203,
+		185,
+		20,
+		21
+	],
+	"lastmodifieddate": 1788478231.3829999,
+	"createddate": 1788478231.3829999,
+	"name": "FindText_X",
+	"lastfounddate": 1788479294.7160001,
+	"ocrcapturestring": "X",
+	"lastfoundlocation": [
+		203,
+		185,
+		20,
+		21
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 55364,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[10,10]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"Type": "RDP",
+					"epgw_path": "C:\\Users\\davihest\\epgw.26.3.3-0048\\epgw.exe"
+				},
+				"name": "FindText_X.png",
+				"connectionname": "NewTower",
+				"type": 1,
+				"connectionserverid": "DESKTOP-3ODRJVP",
+				"capturerect": [
+					203,
+					185,
+					20,
+					21
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "X"
+			}
+	]
+}

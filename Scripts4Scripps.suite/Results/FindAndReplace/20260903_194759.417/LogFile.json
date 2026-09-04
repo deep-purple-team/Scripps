@@ -1,0 +1,271 @@
+{
+	"entries": [
+		{
+				"message": "Running FindAndReplace.script",
+				"identifier": "START",
+				"timestamp": "2026-09-03 19:47:59.420 -0400"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:47:59.535 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "found at (21, 79)",
+				"image": "NewTaskIcon",
+				"handlerLine": 1,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:47:59.579 -0400",
+				"message": "[controlKey]f",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:47:59.582 -0400",
+				"message": "SEARCHRECTANGLE = [3,105,249,555]",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 4,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:03.080 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (119, 123)",
+				"image": "(TEXT:\"Replace\")",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:03.700 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (109, 196)",
+				"image": "(TEXT:\"Type text to find\")",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:04.088 -0400",
+				"message": "Test Test[tab]",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 11,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:04.834 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (118, 262)",
+				"image": "(TEXT:\"Type text to replace\")",
+				"handlerLine": 12,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:05.068 -0400",
+				"message": "     ",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 13,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:05.379 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (80, 337)",
+				"image": "EmptyCheckbox",
+				"handlerLine": 14,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:05.687 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (204, 299)",
+				"image": "ReplaceButton_Active",
+				"handlerLine": 15,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:05.997 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (213, 195)",
+				"image": "FindText_X",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:07.321 -0400",
+				"message": "Salvatore Pacella, M.D., M.B.A, F.A.C.S.[tab]",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 11,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:08.126 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (118, 262)",
+				"image": "(TEXT:\"Type text to replace\")",
+				"handlerLine": 12,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:08.358 -0400",
+				"message": "     ",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 13,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:08.622 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (80, 337)",
+				"image": "EmptyCheckbox",
+				"handlerLine": 14,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:08.917 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (204, 299)",
+				"image": "ReplaceButton_Active",
+				"handlerLine": 15,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:09.245 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (213, 195)",
+				"image": "FindText_X",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:10.685 -0400",
+				"message": "Salvatore J. Pacella, M.D., M.B.A, F.A.C.S.[tab]",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 11,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:11.507 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (118, 262)",
+				"image": "(TEXT:\"Type text to replace\")",
+				"handlerLine": 12,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:11.740 -0400",
+				"message": "     ",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 13,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:12.050 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (80, 337)",
+				"image": "EmptyCheckbox",
+				"handlerLine": 14,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:12.300 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (204, 299)",
+				"image": "ReplaceButton_Active",
+				"handlerLine": 15,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:12.626 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (213, 195)",
+				"image": "FindText_X",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:12.982 -0400",
+				"message": "4/6/2026[tab]",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 11,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:13.698 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (118, 262)",
+				"image": "(TEXT:\"Type text to replace\")",
+				"handlerLine": 12,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:13.929 -0400",
+				"message": "     ",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 13,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:14.212 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (80, 337)",
+				"image": "EmptyCheckbox",
+				"handlerLine": 14,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:14.506 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (204, 299)",
+				"image": "ReplaceButton_Active",
+				"handlerLine": 15,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:48:14.835 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (213, 195)",
+				"image": "FindText_X",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"15.447\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-09-03 19:47:59 -0400\", Successes:\"1\", TestCase:\"FindAndReplace.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-09-03 19:48:14.870 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:15 FindAndReplace.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-09-03 19:48:14.910 -0400"
+			}
+	],
+	"createdTimestamp": "2026-09-03 19:47:59.422 -0400"
+}

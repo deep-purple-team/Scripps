@@ -1,0 +1,6 @@
+﻿2026-09-03 19:22:34.885 -0400	START		Running OpenPDF.script
+2026-09-03 19:22:34.953 -0400	typetext		[controlKey]o	1	on_openpdf	OpenPDF.script
+2026-09-03 19:22:44.173 -0400	waitfor	(TEXT:"Select Files to Open")	found at (89, 39)	2	on_openpdf	OpenPDF.script
+2026-09-03 19:22:45.426 -0400	typetext		C:\MyFiles\Breast Augmentation Test.pdf[return]	3	on_openpdf	OpenPDF.script
+2026-09-03 19:22:45.445 -0400	EndTestCase		(Duration:"10.557", Errors:"0", Exceptions:"0", StartTime:"2026-09-03 19:22:34 -0400", Successes:"1", TestCase:"OpenPDF.script", Warnings:"0")
+2026-09-03 19:22:45.489 -0400	SUCCESS		Execution Time 0:00:10 OpenPDF.script

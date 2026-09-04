@@ -1,0 +1,37 @@
+{
+	"entries": [
+		{
+				"message": "Running FindAndReplace.script",
+				"identifier": "START",
+				"timestamp": "2026-09-03 19:41:14.103 -0400"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:41:14.201 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "found at (21, 79)",
+				"image": "NewTaskIcon",
+				"handlerLine": 1,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:41:14.259 -0400",
+				"message": "[controlKey]f",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"28.268\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-09-03 19:41:14 -0400\", Successes:\"0\", TestCase:\"FindAndReplace.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-09-03 19:41:42.373 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:28 FindAndReplace.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-09-03 19:41:42.382 -0400"
+			}
+	],
+	"createdTimestamp": "2026-09-03 19:41:14.104 -0400"
+}

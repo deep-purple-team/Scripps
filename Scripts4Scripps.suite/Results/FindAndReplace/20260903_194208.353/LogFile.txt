@@ -1,0 +1,18 @@
+﻿2026-09-03 19:42:08.356 -0400	START		Running FindAndReplace.script
+2026-09-03 19:42:08.473 -0400	waitfor	NewTaskIcon	found at (21, 79)	1	on_findandreplace	FindAndReplace.script
+2026-09-03 19:42:08.516 -0400	typetext		[controlKey]f	3	on_findandreplace	FindAndReplace.script
+2026-09-03 19:42:08.531 -0400	set		SEARCHRECTANGLE = [3,105,249,555]	4	on_findandreplace	FindAndReplace.script
+2026-09-03 19:42:22.259 -0400	click	(TEXT:"Replace")	at (119, 123)	5	on_findandreplace	FindAndReplace.script
+2026-09-03 19:42:23.062 -0400	click	(TEXT:"Type text to find")	at (109, 196)	6	on_findandreplace	FindAndReplace.script
+2026-09-03 19:42:23.450 -0400	typetext		Test Test[tab]	11	on_findandreplace	FindAndReplace.script
+2026-09-03 19:42:24.210 -0400	click	(TEXT:"Type text to replace")	at (118, 262)	12	on_findandreplace	FindAndReplace.script
+2026-09-03 19:42:24.442 -0400	typetext		     	13	on_findandreplace	FindAndReplace.script
+2026-09-03 19:42:24.750 -0400	click	EmptyCheckbox	at (80, 337)	14	on_findandreplace	FindAndReplace.script
+2026-09-03 19:42:25.058 -0400	click	ReplaceButton_Active	at (204, 299)	15	on_findandreplace	FindAndReplace.script
+2026-09-03 19:42:25.385 -0400	click	FindText_X	at (213, 195)	16	on_findandreplace	FindAndReplace.script
+2026-09-03 19:42:26.759 -0400	typetext		Salvatore Pacella, M.D., M.B.A., F.A.C.S.[tab]	11	on_findandreplace	FindAndReplace.script
+2026-09-03 19:42:27.578 -0400	click	(TEXT:"Type text to replace")	at (118, 262)	12	on_findandreplace	FindAndReplace.script
+2026-09-03 19:42:27.811 -0400	typetext		     	13	on_findandreplace	FindAndReplace.script
+2026-09-03 19:42:31.603 -0400	Exception	EmptyCheckbox	No Image Found On Screen: "EmptyCheckbox"	14	on_findandreplace	FindAndReplace.script
+2026-09-03 19:42:31.689 -0400	EndTestCase		(Duration:"23.329", Errors:"1", Exceptions:"1", StartTime:"2026-09-03 19:42:08 -0400", Successes:"0", TestCase:"FindAndReplace.script", Warnings:"0")
+2026-09-03 19:42:31.706 -0400	ABORTED		Execution Time 0:00:23 FindAndReplace.script

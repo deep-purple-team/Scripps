@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="FindAndReplace_script" package="Scripts4Scripps.suite" timestamp="2026-09-03 19:39:00.359 -0400"
+ tests="1"  failures="0" errors="0" time="31.645000">
+  <properties>
+   <property name="RunDate" value="2026-09-03 19:39:00.359 -0400"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="FindAndReplace.script" assertions="1" status="error"  time="31.64">
+    <error type="Exception" message="No Image Found On Screen: &quot;EmptyCheckbox&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

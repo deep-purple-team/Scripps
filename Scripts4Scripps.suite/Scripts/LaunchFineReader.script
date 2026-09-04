@@ -1,0 +1,4 @@
+﻿TypeText WindowsKey, "r"
+Typetext "c:\Program Files\ABBYY FineReader 16\FineReader.exe"
+TypeText Enter
+WaitFor 10.0, "ABBYYFineReaderIcon_sm"

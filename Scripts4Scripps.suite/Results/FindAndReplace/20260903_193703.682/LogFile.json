@@ -1,0 +1,89 @@
+{
+	"entries": [
+		{
+				"message": "Running FindAndReplace.script",
+				"identifier": "START",
+				"timestamp": "2026-09-03 19:37:03.686 -0400"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:37:03.827 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "found at (21, 79)",
+				"image": "NewTaskIcon",
+				"handlerLine": 1,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:37:03.870 -0400",
+				"message": "[controlKey]f",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:37:07.819 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (119, 123)",
+				"image": "(TEXT:\"Replace\")",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:37:11.791 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (108, 196)",
+				"image": "(TEXT:\"Type text to find\")",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:37:29.377 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "at (118, 262)",
+				"image": "(TEXT:\"Type text to replace\")",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:37:29.762 -0400",
+				"message": "Test Test[tab]",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:37:29.994 -0400",
+				"message": "     ",
+				"scriptName": "FindAndReplace.script",
+				"handlerLine": 11,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_findandreplace",
+				"timestamp": "2026-09-03 19:37:33.010 -0400",
+				"scriptName": "FindAndReplace.script",
+				"message": "No Image Found On Screen: \"EmptyCheckbox\"",
+				"image": "EmptyCheckbox",
+				"handlerLine": 12,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"29.395\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2026-09-03 19:37:03 -0400\", Successes:\"0\", TestCase:\"FindAndReplace.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-09-03 19:37:33.084 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:29 FindAndReplace.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-09-03 19:37:33.094 -0400"
+			}
+	],
+	"createdTimestamp": "2026-09-03 19:37:03.688 -0400"
+}

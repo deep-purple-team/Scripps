@@ -1,0 +1,11 @@
+﻿2026-09-08 15:54:46.305 -0400	START		Running Primary_CreateConsentForms.script
+2026-09-08 15:54:46.335 -0400	Log		Creating a consent form for Bruce Wayne	17	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:54:46.361 -0400	Log		Bruce Wayne	21	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:54:46.364 -0400	Log		9/10/2026	21	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:54:46.366 -0400	Log		(Surgery to recontour [pin back] my ears.)	21	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:54:46.370 -0400	Log		BILATERAL OTOPLASTY*	21	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:54:46.382 -0400	Log		Salvatore Pacella, M.D., M.B.A., F.A.C.S.	21	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:54:46.382 -0400	Log			21	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:54:46.382 -0400	Log		him	21	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:57:00.725 -0400	EndTestCase		(Duration:"134.416", Errors:"1", Exceptions:"0", StartTime:"2026-09-08 15:54:46 -0400", Successes:"0", TestCase:"Primary_CreateConsentForms.script", Warnings:"0")
+2026-09-08 15:57:00.740 -0400	ABORTED		Execution Time 0:02:14 Primary_CreateConsentForms.script

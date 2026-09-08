@@ -1,0 +1,100 @@
+{
+	"entries": [
+		{
+				"message": "Running Primary_CreateConsentForms.script",
+				"identifier": "START",
+				"timestamp": "2026-09-08 15:20:39.488 -0400"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:20:39.518 -0400",
+				"message": "Creating a consent form for Bruce Wayne",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:20:39.548 -0400",
+				"message": "Creating a consent form for Clark Kent",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:20:39.583 -0400",
+				"message": "Creating a consent form for Jason Todd",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:20:39.618 -0400",
+				"message": "Creating a consent form for Selena Kyle",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:20:39.648 -0400",
+				"message": "Creating a consent form for Pamela Isley",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:20:39.677 -0400",
+				"message": "Creating a consent form for Dick Grayson",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:20:39.714 -0400",
+				"message": "Creating a consent form for Edward Nigma",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:20:39.748 -0400",
+				"message": "Creating a consent form for Harleen Quinn",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:20:39.781 -0400",
+				"message": "Creating a consent form for Basil Karlo",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:20:39.815 -0400",
+				"message": "Creating a consent form for Oswald Cobblepot",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.38\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-09-08 15:20:39 -0400\", Successes:\"1\", TestCase:\"Primary_CreateConsentForms.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-09-08 15:20:39.871 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:00 Primary_CreateConsentForms.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-09-08 15:20:39.889 -0400"
+			}
+	],
+	"createdTimestamp": "2026-09-08 15:20:39.489 -0400"
+}

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Primary_CreateConsentForms_script" package="Scripts4Scripps.suite" timestamp="2026-09-08 15:08:01.618 -0400"
+ tests="1"  failures="0" errors="0" time="0.039000">
+  <properties>
+   <property name="RunDate" value="2026-09-08 15:08:01.618 -0400"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Primary_CreateConsentForms.script" assertions="1" status="success"  time="0.034">
+  </testcase>
+ </testsuite>
+</testsuites>

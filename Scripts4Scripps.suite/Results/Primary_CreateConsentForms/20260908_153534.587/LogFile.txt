@@ -1,0 +1,13 @@
+﻿2026-09-08 15:35:34.592 -0400	START		Running Primary_CreateConsentForms.script
+2026-09-08 15:35:34.702 -0400	Log		Creating a consent form for Bruce Wayne	17	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:35:34.728 -0400	Log		Creating a consent form for Clark Kent	17	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:35:34.755 -0400	Log		Creating a consent form for Jason Todd	17	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:35:34.793 -0400	Log		Creating a consent form for Selena Kyle	17	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:35:34.827 -0400	Log		Creating a consent form for Pamela Isley	17	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:35:34.859 -0400	Log		Creating a consent form for Dick Grayson	17	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:35:34.893 -0400	Log		Creating a consent form for Edward Nigma	17	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:35:34.928 -0400	Log		Creating a consent form for Harleen Quinn	17	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:35:34.960 -0400	Log		Creating a consent form for Basil Karlo	17	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:35:34.989 -0400	Log		Creating a consent form for Oswald Cobblepot	17	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:35:35.043 -0400	EndTestCase		(Duration:"0.449", Errors:"0", Exceptions:"0", StartTime:"2026-09-08 15:35:34 -0400", Successes:"1", TestCase:"Primary_CreateConsentForms.script", Warnings:"0")
+2026-09-08 15:35:35.071 -0400	SUCCESS		Execution Time 0:00:00 Primary_CreateConsentForms.script

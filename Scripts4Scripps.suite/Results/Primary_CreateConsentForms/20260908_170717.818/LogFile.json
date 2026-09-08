@@ -1,0 +1,740 @@
+{
+	"entries": [
+		{
+				"message": "Running Primary_CreateConsentForms.script",
+				"identifier": "START",
+				"timestamp": "2026-09-08 17:07:17.822 -0400"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:07:17.855 -0400",
+				"message": "Creating a consent form for Bruce Wayne",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 18,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:07:17.878 -0400",
+				"message": "Bruce Wayne",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:07:17.881 -0400",
+				"message": "9/10/2026",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:07:17.884 -0400",
+				"message": "(Surgery to recontour [pin back] my ears.)",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:07:17.886 -0400",
+				"message": "BILATERAL OTOPLASTY*",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:07:17.899 -0400",
+				"message": "Salvatore Pacella, M.D., M.B.A., F.A.C.S.",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:07:17.902 -0400",
+				"message": "(858) 554-8991",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:07:17.904 -0400",
+				"message": "he",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:07:17.906 -0400",
+				"message": "him",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.143 -0400",
+				"message": "Creating a consent form for Clark Kent",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 18,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.172 -0400",
+				"message": "Clark Kent",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.175 -0400",
+				"message": "9/10/2026",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.177 -0400",
+				"message": "(Lifting and tightening my facial skin using an endoscopic technique with very small skin incisions only.)",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.179 -0400",
+				"message": "STANDARD ENDOSCOPIC RHYTIDECTOMY*",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.182 -0400",
+				"message": "Sean McNamara, M.D., M.B.A., F.A.C.S.",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.184 -0400",
+				"message": "(858) 554-8992",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.188 -0400",
+				"message": "he",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.191 -0400",
+				"message": "him",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.196 -0400",
+				"message": "Creating a consent form for Jason Todd",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 18,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.220 -0400",
+				"message": "Jason Todd",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.224 -0400",
+				"message": "9/10/2026",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.226 -0400",
+				"message": "(Lifting and tightening my facial skin using an endoscopic technique with very small skin incisions only.)",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.229 -0400",
+				"message": "CHANGE FACIAL FEATURES",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.231 -0400",
+				"message": "Christian Troy, M.D., M.B.A., F.A.C.S.",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.234 -0400",
+				"message": "(858) 554-8993",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.237 -0400",
+				"message": "he",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.239 -0400",
+				"message": "him",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.244 -0400",
+				"message": "Creating a consent form for Selena Kyle",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 18,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.266 -0400",
+				"message": "Selena Kyle",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.269 -0400",
+				"message": "9/10/2026",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.272 -0400",
+				"message": "(Injection of Restylane to improve the appearance of my ___________.)",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.275 -0400",
+				"message": "ONE SYRINGE RESTYLANE*",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.278 -0400",
+				"message": "Mark Sloan, M.D., M.B.A., F.A.C.S.",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.280 -0400",
+				"message": "(858) 554-8994",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.282 -0400",
+				"message": "he",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.285 -0400",
+				"message": "him",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.290 -0400",
+				"message": "Creating a consent form for Pamela Isley",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 18,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.313 -0400",
+				"message": "Pamela Isley",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.316 -0400",
+				"message": "9/10/2026",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.319 -0400",
+				"message": "(A surgery to improve the cosmetic appearance of my _________by suctioning excess fat from under the surface of the skin.)",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.321 -0400",
+				"message": "1 BILATERAL AREA SUCTION ASSISTED LIPECTOMY",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.324 -0400",
+				"message": "Elliott Mantle, M.D., M.B.A., F.A.C.S.",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.326 -0400",
+				"message": "(858) 554-8995",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.330 -0400",
+				"message": "he",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.333 -0400",
+				"message": "him",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.338 -0400",
+				"message": "Creating a consent form for Dick Grayson",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 18,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.359 -0400",
+				"message": "Dick Grayson",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.361 -0400",
+				"message": "9/10/2026",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.364 -0400",
+				"message": "( ___________________ .)",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.366 -0400",
+				"message": "VASCULARIZED LYMPH NODE TRANSFER",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.369 -0400",
+				"message": "Robert Caldwell, M.D., M.B.A., F.A.C.S.",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.372 -0400",
+				"message": "(858) 554-8996",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.374 -0400",
+				"message": "he",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.377 -0400",
+				"message": "him",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.382 -0400",
+				"message": "Creating a consent form for Edward Nigma",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 18,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.406 -0400",
+				"message": "Edward Nigma",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.410 -0400",
+				"message": "9/10/2026",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.412 -0400",
+				"message": "(Surgery to improve nasal function by straightening the divider between the two chambers of my nose.)",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.415 -0400",
+				"message": "STANDARD SEPTOPLASTY*",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.417 -0400",
+				"message": "Jackson Avery, M.D., M.B.A., F.A.C.S.",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.420 -0400",
+				"message": "(858) 554-8997",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.422 -0400",
+				"message": "he",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.425 -0400",
+				"message": "him",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.429 -0400",
+				"message": "Creating a consent form for Harleen Quinn",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 18,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.452 -0400",
+				"message": "Harleen Quinn",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.455 -0400",
+				"message": "9/10/2026",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.457 -0400",
+				"message": "(Removal of the majority of my breast tissue but preserving the skin and nipple of my breasts.)",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.460 -0400",
+				"message": "BILATERAL SUBCUTANEOUS MASTECTOMY*",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.462 -0400",
+				"message": "Parsa Salehi, M.D., M.B.A., F.A.C.S.",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.465 -0400",
+				"message": "(858) 554-8998",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.467 -0400",
+				"message": "she",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.470 -0400",
+				"message": "her",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.475 -0400",
+				"message": "Creating a consent form for Basil Karlo",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 18,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.498 -0400",
+				"message": "Basil Karlo",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.501 -0400",
+				"message": "9/10/2026",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.505 -0400",
+				"message": "(Removal of excess skin from my face, jowl, and neck. Tightening the underlying fascia and muscle.)",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.507 -0400",
+				"message": "STANDARD TEMPORAL RHYTIDECTOMY*",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.510 -0400",
+				"message": "Paul Nassif, M.D., M.B.A., F.A.C.S.",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.512 -0400",
+				"message": "(858) 554-8999",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.515 -0400",
+				"message": "he",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.518 -0400",
+				"message": "him",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.522 -0400",
+				"message": "Creating a consent form for Oswald Cobblepot",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 18,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.544 -0400",
+				"message": "Oswald Cobblepot",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.547 -0400",
+				"message": "9/10/2026",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.550 -0400",
+				"message": "(A surgery to improve the cosmetic appearance of my _________by suctioning excess fat from under the surface of the skin using the ultrasonic technique.)",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.552 -0400",
+				"message": "1 BILATERAL AREA SUCTION ASSISTED LIPECTOMY USING ULTRASONIC TECHNIQUES*",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.554 -0400",
+				"message": "Terry Dubrow, M.D., M.B.A., F.A.C.S.",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.558 -0400",
+				"message": "(858) 554-9000",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.561 -0400",
+				"message": "he",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 17:09:04.564 -0400",
+				"message": "him",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"106.747\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-09-08 17:07:17 -0400\", Successes:\"1\", TestCase:\"Primary_CreateConsentForms.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-09-08 17:09:04.573 -0400"
+			},
+		{
+				"message": "Execution Time 0:01:46 Primary_CreateConsentForms.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-09-08 17:09:04.592 -0400"
+			}
+	],
+	"createdTimestamp": "2026-09-08 17:07:17.824 -0400"
+}

@@ -1,0 +1,93 @@
+﻿2026-09-08 17:07:17.822 -0400	START		Running Primary_CreateConsentForms.script
+2026-09-08 17:07:17.855 -0400	Log		Creating a consent form for Bruce Wayne	18	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:07:17.878 -0400	Log		Bruce Wayne	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:07:17.881 -0400	Log		9/10/2026	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:07:17.884 -0400	Log		(Surgery to recontour [pin back] my ears.)	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:07:17.886 -0400	Log		BILATERAL OTOPLASTY*	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:07:17.899 -0400	Log		Salvatore Pacella, M.D., M.B.A., F.A.C.S.	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:07:17.902 -0400	Log		(858) 554-8991	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:07:17.904 -0400	Log		he	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:07:17.906 -0400	Log		him	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.143 -0400	Log		Creating a consent form for Clark Kent	18	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.172 -0400	Log		Clark Kent	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.175 -0400	Log		9/10/2026	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.177 -0400	Log		(Lifting and tightening my facial skin using an endoscopic technique with very small skin incisions only.)	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.179 -0400	Log		STANDARD ENDOSCOPIC RHYTIDECTOMY*	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.182 -0400	Log		Sean McNamara, M.D., M.B.A., F.A.C.S.	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.184 -0400	Log		(858) 554-8992	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.188 -0400	Log		he	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.191 -0400	Log		him	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.196 -0400	Log		Creating a consent form for Jason Todd	18	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.220 -0400	Log		Jason Todd	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.224 -0400	Log		9/10/2026	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.226 -0400	Log		(Lifting and tightening my facial skin using an endoscopic technique with very small skin incisions only.)	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.229 -0400	Log		CHANGE FACIAL FEATURES	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.231 -0400	Log		Christian Troy, M.D., M.B.A., F.A.C.S.	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.234 -0400	Log		(858) 554-8993	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.237 -0400	Log		he	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.239 -0400	Log		him	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.244 -0400	Log		Creating a consent form for Selena Kyle	18	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.266 -0400	Log		Selena Kyle	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.269 -0400	Log		9/10/2026	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.272 -0400	Log		(Injection of Restylane to improve the appearance of my ___________.)	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.275 -0400	Log		ONE SYRINGE RESTYLANE*	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.278 -0400	Log		Mark Sloan, M.D., M.B.A., F.A.C.S.	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.280 -0400	Log		(858) 554-8994	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.282 -0400	Log		he	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.285 -0400	Log		him	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.290 -0400	Log		Creating a consent form for Pamela Isley	18	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.313 -0400	Log		Pamela Isley	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.316 -0400	Log		9/10/2026	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.319 -0400	Log		(A surgery to improve the cosmetic appearance of my _________by suctioning excess fat from under the surface of the skin.)	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.321 -0400	Log		1 BILATERAL AREA SUCTION ASSISTED LIPECTOMY	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.324 -0400	Log		Elliott Mantle, M.D., M.B.A., F.A.C.S.	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.326 -0400	Log		(858) 554-8995	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.330 -0400	Log		he	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.333 -0400	Log		him	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.338 -0400	Log		Creating a consent form for Dick Grayson	18	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.359 -0400	Log		Dick Grayson	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.361 -0400	Log		9/10/2026	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.364 -0400	Log		( ___________________ .)	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.366 -0400	Log		VASCULARIZED LYMPH NODE TRANSFER	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.369 -0400	Log		Robert Caldwell, M.D., M.B.A., F.A.C.S.	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.372 -0400	Log		(858) 554-8996	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.374 -0400	Log		he	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.377 -0400	Log		him	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.382 -0400	Log		Creating a consent form for Edward Nigma	18	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.406 -0400	Log		Edward Nigma	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.410 -0400	Log		9/10/2026	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.412 -0400	Log		(Surgery to improve nasal function by straightening the divider between the two chambers of my nose.)	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.415 -0400	Log		STANDARD SEPTOPLASTY*	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.417 -0400	Log		Jackson Avery, M.D., M.B.A., F.A.C.S.	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.420 -0400	Log		(858) 554-8997	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.422 -0400	Log		he	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.425 -0400	Log		him	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.429 -0400	Log		Creating a consent form for Harleen Quinn	18	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.452 -0400	Log		Harleen Quinn	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.455 -0400	Log		9/10/2026	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.457 -0400	Log		(Removal of the majority of my breast tissue but preserving the skin and nipple of my breasts.)	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.460 -0400	Log		BILATERAL SUBCUTANEOUS MASTECTOMY*	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.462 -0400	Log		Parsa Salehi, M.D., M.B.A., F.A.C.S.	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.465 -0400	Log		(858) 554-8998	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.467 -0400	Log		she	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.470 -0400	Log		her	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.475 -0400	Log		Creating a consent form for Basil Karlo	18	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.498 -0400	Log		Basil Karlo	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.501 -0400	Log		9/10/2026	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.505 -0400	Log		(Removal of excess skin from my face, jowl, and neck. Tightening the underlying fascia and muscle.)	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.507 -0400	Log		STANDARD TEMPORAL RHYTIDECTOMY*	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.510 -0400	Log		Paul Nassif, M.D., M.B.A., F.A.C.S.	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.512 -0400	Log		(858) 554-8999	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.515 -0400	Log		he	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.518 -0400	Log		him	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.522 -0400	Log		Creating a consent form for Oswald Cobblepot	18	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.544 -0400	Log		Oswald Cobblepot	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.547 -0400	Log		9/10/2026	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.550 -0400	Log		(A surgery to improve the cosmetic appearance of my _________by suctioning excess fat from under the surface of the skin using the ultrasonic technique.)	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.552 -0400	Log		1 BILATERAL AREA SUCTION ASSISTED LIPECTOMY USING ULTRASONIC TECHNIQUES*	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.554 -0400	Log		Terry Dubrow, M.D., M.B.A., F.A.C.S.	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.558 -0400	Log		(858) 554-9000	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.561 -0400	Log		he	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.564 -0400	Log		him	22	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 17:09:04.573 -0400	EndTestCase		(Duration:"106.747", Errors:"0", Exceptions:"0", StartTime:"2026-09-08 17:07:17 -0400", Successes:"1", TestCase:"Primary_CreateConsentForms.script", Warnings:"0")
+2026-09-08 17:09:04.592 -0400	SUCCESS		Execution Time 0:01:46 Primary_CreateConsentForms.script

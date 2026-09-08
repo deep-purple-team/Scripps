@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Primary_CreateConsentForms.script",
+				"identifier": "START",
+				"timestamp": "2026-09-08 15:18:34.293 -0400"
+			},
+		{
+				"message": "(Duration:\"0.001\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-09-08 15:18:34 -0400\", Successes:\"0\", TestCase:\"Primary_CreateConsentForms.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-09-08 15:18:34.297 -0400"
+			},
+		{
+				"message": "SenseTalk Compiler Exception: in primary_createconsentforms:\\nSyntax Error at line 6: can't understand \"[\" at character 103 -- Execution Time 0:00:00 Primary_CreateConsentForms.script",
+				"identifier": "FAILURE",
+				"timestamp": "2026-09-08 15:18:34.315 -0400"
+			}
+	],
+	"createdTimestamp": "2026-09-08 15:18:34.295 -0400"
+}

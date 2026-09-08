@@ -1,0 +1,83 @@
+{
+	"entries": [
+		{
+				"message": "Running Primary_CreateConsentForms.script",
+				"identifier": "START",
+				"timestamp": "2026-09-08 15:58:37.023 -0400"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:58:37.062 -0400",
+				"message": "Creating a consent form for Bruce Wayne",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 17,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:58:37.079 -0400",
+				"message": "Bruce Wayne",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 21,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:58:37.082 -0400",
+				"message": "9/10/2026",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 21,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:58:37.084 -0400",
+				"message": "(Surgery to recontour [pin back] my ears.)",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 21,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:58:37.087 -0400",
+				"message": "BILATERAL OTOPLASTY*",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 21,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:58:37.100 -0400",
+				"message": "Salvatore Pacella, M.D., M.B.A., F.A.C.S.",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 21,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:58:37.102 -0400",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"identifier": "Log",
+				"handlerLine": 21
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:58:37.104 -0400",
+				"message": "him",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 21,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"1388.146\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-09-08 15:58:37 -0400\", Successes:\"0\", TestCase:\"Primary_CreateConsentForms.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-09-08 16:21:45.174 -0400"
+			},
+		{
+				"message": "Execution Time 0:23:08 Primary_CreateConsentForms.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-09-08 16:21:45.200 -0400"
+			}
+	],
+	"createdTimestamp": "2026-09-08 15:58:37.024 -0400"
+}

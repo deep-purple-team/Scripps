@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running Primary_CreateConsentForms.script",
+				"identifier": "START",
+				"timestamp": "2026-09-08 15:52:30.297 -0400"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:52:30.341 -0400",
+				"message": "Creating a consent form for Bruce Wayne",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 17,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_primary_createconsentforms",
+				"timestamp": "2026-09-08 15:52:30.369 -0400",
+				"message": "Bruce Wayne",
+				"scriptName": "Primary_CreateConsentForms.script",
+				"handlerLine": 21,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"7.407\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-09-08 15:52:30 -0400\", Successes:\"0\", TestCase:\"Primary_CreateConsentForms.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-09-08 15:52:37.706 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:07 Primary_CreateConsentForms.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-09-08 15:52:37.716 -0400"
+			}
+	],
+	"createdTimestamp": "2026-09-08 15:52:30.299 -0400"
+}

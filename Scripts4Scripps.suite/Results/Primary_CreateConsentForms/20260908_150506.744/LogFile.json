@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Primary_CreateConsentForms.script",
+				"identifier": "START",
+				"timestamp": "2026-09-08 15:05:06.748 -0400"
+			},
+		{
+				"message": "(Duration:\"0.043\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-09-08 15:05:06 -0400\", Successes:\"0\", TestCase:\"Primary_CreateConsentForms.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-09-08 15:05:06.795 -0400"
+			},
+		{
+				"message": "Workbook Error: Must specify File property with path to the workbook file -- Execution Time 0:00:00 Primary_CreateConsentForms.script",
+				"identifier": "FAILURE",
+				"timestamp": "2026-09-08 15:05:06.809 -0400"
+			}
+	],
+	"createdTimestamp": "2026-09-08 15:05:06.750 -0400"
+}

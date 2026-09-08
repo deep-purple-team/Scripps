@@ -1,0 +1,5 @@
+﻿2026-09-08 15:49:34.104 -0400	START		Running Primary_CreateConsentForms.script
+2026-09-08 15:49:34.231 -0400	Log		Creating a consent form for Bruce Wayne	16	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:49:34.246 -0400	Log		 	20	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:51:23.556 -0400	EndTestCase		(Duration:"109.448", Errors:"1", Exceptions:"0", StartTime:"2026-09-08 15:49:34 -0400", Successes:"0", TestCase:"Primary_CreateConsentForms.script", Warnings:"0")
+2026-09-08 15:51:23.574 -0400	ABORTED		Execution Time 0:01:49 Primary_CreateConsentForms.script

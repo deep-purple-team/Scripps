@@ -1,0 +1,13 @@
+﻿2026-09-08 15:08:35.542 -0400	START		Running Primary_CreateConsentForms.script
+2026-09-08 15:08:35.627 -0400	Log		Processing record  of 10	5	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:08:35.640 -0400	Log		Processing record  of 10	5	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:08:35.644 -0400	Log		Processing record  of 10	5	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:08:35.656 -0400	Log		Processing record  of 10	5	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:08:35.664 -0400	Log		Processing record  of 10	5	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:08:35.672 -0400	Log		Processing record  of 10	5	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:08:35.680 -0400	Log		Processing record  of 10	5	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:08:35.689 -0400	Log		Processing record  of 10	5	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:08:35.696 -0400	Log		Processing record  of 10	5	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:08:35.705 -0400	Log		Processing record  of 10	5	on_primary_createconsentforms	Primary_CreateConsentForms.script
+2026-09-08 15:08:35.711 -0400	EndTestCase		(Duration:"0.167", Errors:"0", Exceptions:"0", StartTime:"2026-09-08 15:08:35 -0400", Successes:"1", TestCase:"Primary_CreateConsentForms.script", Warnings:"0")
+2026-09-08 15:08:35.729 -0400	SUCCESS		Execution Time 0:00:00 Primary_CreateConsentForms.script

@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Primary_CreateConsentForms.script",
+				"identifier": "START",
+				"timestamp": "2026-09-08 15:05:55.452 -0400"
+			},
+		{
+				"message": "(Duration:\"29.2\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-09-08 15:05:55 -0400\", Successes:\"0\", TestCase:\"Primary_CreateConsentForms.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-09-08 15:06:24.655 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:29 Primary_CreateConsentForms.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-09-08 15:06:24.663 -0400"
+			}
+	],
+	"createdTimestamp": "2026-09-08 15:05:55.454 -0400"
+}

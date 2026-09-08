@@ -1,8 +1,10 @@
 set myConnectionString to {type:"Excel", file:ResourcePath("ConsentForms.xlsx"),writeable:true}
 put the number of records of myConnectionString into recordCount
-put recordCount
+log "The number of records in this spreadsheet is" && recordCount
 
 repeat with each item myCurrentRecord of (each of the records of myConnectionString)
+	// Creates a property list of the values in the current record to be used for replacement in the template
+	// The property name is the same as the placeholder in the template, and the value is the value from the record
 	put {
 		myProcedureTitle: myCurrentRecord.ProcedureTitle,
 		myProcedureSubtitle: myCurrentRecord.ProcedureSubtitle,
@@ -10,17 +12,22 @@ repeat with each item myCurrentRecord of (each of the records of myConnectionStr
 		myProcedureDate: myCurrentRecord.ProcedureDate,
 		myProviderNameAndTitle: myCurrentRecord.ProviderNameAndTitle,
 		myProviderPhone: myCurrentRecord.ProviderPhone,
-		myProviderPronoun1: item 1 of (myCurrentRecord.ProviderPronoun split by "|"),
-		myProviderPronoun2: item 2 of (myCurrentRecord.ProviderPronoun split by "|")
+		myProviderPronoun1: item 1 of (myCurrentRecord.ProviderPronoun split by "|"), -- the pronouns are stored in the spreadsheet as a single string separated by a pipe character, so we split the string into a list and take the first item for the first pronoun
+		myProviderPronoun2: item 2 of (myCurrentRecord.ProviderPronoun split by "|") -- the pronouns are stored in the spreadsheet as a single string separated by a pipe character, so we split the string into a list and take the second item for the second pronoun
 	} into myReplacementList
 
 
 	Log "Creating a consent form for" && myCurrentRecord.PatientFirstName && myCurrentRecord.PatientLastName
-	put trimall(merge("Consent form for [[myCurrentRecord.PatientFirstName]] [[myCurrentRecord.PatientLastName]]_[[myCurrentRecord.ProcedureTitle]]_[[myCurrentRecord.ProcedureDate]]"),"*/") into myFileName
-	put file ResourcePath("consent_letter_template_singlepage.html") into myTempFile
+	put trimall(merge("Consent form for [[myCurrentRecord.PatientFirstName]] [[myCurrentRecord.PatientLastName]]_[[myCurrentRecord.ProcedureTitle]]_[[myCurrentRecord.ProcedureDate]]"),"*/") into myFileName -- creates a filename that is safe for the filesystem by removing any characters that are not allowed in filenames
+	put file ResourcePath("consent_letter_template_singlepage.html") into myTempFile -- loads the template file into a variable to be used for replacement
+	
+	// Replaces the placeholders in the template with the values from the current record
 	repeat with each myCurrentReplacement in the keys of myReplacementList
 		log myReplacementList.(myCurrentReplacement)
 		replace every instance of myCurrentReplacement in myTempFile with myReplacementList.(myCurrentReplacement)
 	end repeat
+	
+	// Saves the modified template as a new HTML file with a unique filename based on the current record's values
 	put myTempFile into file ResourcePath(myFileName&".html")
+
 end repeat

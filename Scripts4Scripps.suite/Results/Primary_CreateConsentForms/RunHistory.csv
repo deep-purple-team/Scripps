@@ -32,3 +32,5 @@
 2026-09-08 17:04:35.019 -0400,"Aborted",0:00:45,1,0,0,"20260908_170435.019/LogFile.txt","","",0
 2026-09-08 17:06:02.607 -0400,"Aborted",0:00:46,1,0,0,"20260908_170602.607/LogFile.txt","","",0
 2026-09-08 17:07:17.818 -0400,"Success",0:01:46,0,0,0,"20260908_170717.818/LogFile.txt","","",1
+2026-09-09 14:28:59.453 -0400,"Failure",0:00:00,1,0,0,"20260909_142859.453/LogFile.txt","","STFileException -- Failed to write to file C:/ScriptRepositories/Scripps/Scripts4Scripps.suite/Resources/Consent form for Jason Todd_<NONE> CHANGE FACIAL FEATURES_9102026.html",0
+2026-09-09 14:31:28.484 -0400,"Success",0:00:00,0,0,0,"20260909_143128.484/LogFile.txt","","",1

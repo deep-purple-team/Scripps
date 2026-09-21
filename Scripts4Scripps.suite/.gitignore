@@ -1,0 +1,7 @@
+.DS_Store
+.timestamp
+*.suite/Results/
+/Results/
+/.claude/
+/.roo/
+mcp.json

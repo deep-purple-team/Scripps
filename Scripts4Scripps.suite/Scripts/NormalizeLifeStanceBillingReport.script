@@ -1,0 +1,24 @@
+// Establishes path and datasheet objects
+set myExcelFile to ResourcePath("July 2026 CoCM Billing Report with Removed Patient PII.xlsx")
+set myWorkbook to Workbook(myExcelFile) -- instantiates the workbook object
+
+put formattedTime("[mo][da][yr]_[hr24][mi][se]") into myTimeStamp
+put "Source_" & myTimeStamp into myNewWorksheetName -- creates a unique name for the new worksheet
+
+set myNewSheet to myWorkbook’s newWorksheet(name:myNewWorksheetName, sequenceNumber:1, copyFrom: Worksheet(myWorkbook,"7.26 Monthly Billing Report"))
+set mySourceWorksheet to Worksheet(myWorkbook,1)
+deleteColumns mySourceWorksheet, A -- deletes column A from the source worksheet
+put "Status" into Cell(mySourceWorksheet,"S5") -- adds a new column header for the status column
+
+//  Begins treating the source worksheet as a data source for the script
+set myConnectionString to {type:"Excel", file:myExcelFile, writeable:true, headerRow:5, table:"Source"} -- creates a connection string to the source worksheet
+put the number of records of myConnectionString into recordCount -- gets the total number of records
+log "The number of records in this spreadsheet is" && recordCount -- logs the total number of records in the source worksheet. Used for troubleshooting.
+
+repeat with each item myCurrentRecord of (the records of myConnectionString) by reference -- without the 'by reference' the script will not write back to the Excel file
+	put myCurrentRecord.Patient -- logs the patient name for each record. Used for troubleshooting.
+    (** Add steps to be performed within Epic Hyperdrive here. For example, you may want to open Epic Hyperdrive, navigate to a specific patient record, and perform certain actions based on the data in the
+current record. **)
+put "Complete" into myCurrentRecord.Status
+
+end repeat

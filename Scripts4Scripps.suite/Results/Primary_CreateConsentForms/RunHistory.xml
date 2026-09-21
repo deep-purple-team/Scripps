@@ -397,4 +397,28 @@ Syntax Error at line 6: can&#x27;t understand &quot;[&quot; at character 103</Er
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
+ <run>
+  <RunDate>2026-09-09 14:28:59.453 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.251000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20260909_142859.453/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileException -- Failed to write to file C:/ScriptRepositories/Scripps/Scripts4Scripps.suite/Resources/Consent form for Jason Todd_&lt;NONE&gt; CHANGE FACIAL FEATURES_9102026.html</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2026-09-09 14:31:28.484 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.902000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20260909_143128.484/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
 </runHistory>

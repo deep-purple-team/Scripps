@@ -11,7 +11,7 @@ deleteColumns mySourceWorksheet, A -- deletes column A from the source worksheet
 put "Status" into Cell(mySourceWorksheet,"S5") -- adds a new column header for the status column
 
 //  Begins treating the source worksheet as a data source for the script
-set myConnectionString to {type:"Excel", file:myExcelFile, writeable:true, headerRow:5, table:"Source"} -- creates a connection string to the source worksheet
+set myConnectionString to {type:"Excel", file:myExcelFile, writeable:true, headerRow:5, name:myNewWorksheetName} -- creates a connection string to the source worksheet
 put the number of records of myConnectionString into recordCount -- gets the total number of records
 log "The number of records in this spreadsheet is" && recordCount -- logs the total number of records in the source worksheet. Used for troubleshooting.
 
@@ -22,3 +22,4 @@ current record. **)
 put "Complete" into myCurrentRecord.Status
 
 end repeat
+

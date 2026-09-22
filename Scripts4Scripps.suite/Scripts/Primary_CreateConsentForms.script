@@ -6,8 +6,10 @@ repeat with each item myCurrentRecord of (each of the records of myConnectionStr
 	// Creates a property list of the values in the current record to be used for replacement in the template
 	// The property name is the same as the placeholder in the template, and the value is the value from the record
 	put {
-		myProcedureTitle: myCurrentRecord.ProcedureTitle,
-		myProcedureSubtitle: myCurrentRecord.ProcedureSubtitle,
+		myProcedureTitle1: myCurrentRecord.ProcedureTitle1,
+		myProcedureSubtitle1: myCurrentRecord.ProcedureSubtitle1,
+		myProcedureTitle2: myCurrentRecord.ProcedureTitle2,
+		myProcedureSubtitle2: myCurrentRecord.ProcedureSubtitle2,
 		myPatientName: myCurrentRecord.PatientFirstName && myCurrentRecord.PatientLastName,
 		myProcedureDate: myCurrentRecord.ProcedureDate,
 		myProviderNameAndTitle: myCurrentRecord.ProviderNameAndTitle,

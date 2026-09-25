@@ -1,6 +1,11 @@
 {
   "enabledMcpjsonServers": [
-    "eggplant-studio-64998"
+    "eggplant-studio-64998",
+    "eggplant-studio-55732",
+    "eggplant-gateway-31948",
+    "eggplant-studio-53614",
+    "eggplant-gateway-12140",
+    "eggplant-studio-50973",
+    "eggplant-gateway-36252"
   ]
 }
-

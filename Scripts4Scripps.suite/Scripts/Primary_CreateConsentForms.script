@@ -20,7 +20,7 @@ repeat with each item myCurrentRecord of (each of the records of myConnectionStr
 
 
 	Log "Creating a consent form for" && myCurrentRecord.PatientFirstName && myCurrentRecord.PatientLastName
-	put trimall(merge("Consent form for [[myCurrentRecord.PatientFirstName]] [[myCurrentRecord.PatientLastName]]_[[myCurrentRecord.ProcedureTitle]]_[[myCurrentRecord.ProcedureDate]]"),"*/<>") into myFileName -- creates a filename that is safe for the filesystem by removing any characters that are not allowed in filenames
+	put trimall(merge("Consent form for [[myCurrentRecord.PatientFirstName]] [[myCurrentRecord.PatientLastName]]_[[myCurrentRecord.ProcedureDate]]"),"*/<>") into myFileName -- creates a filename that is safe for the filesystem by removing any characters that are not allowed in filenames
 	put file ResourcePath("consent_letter_template_singlepage.html") into myTempFile -- loads the template file into a variable to be used for replacement
 	
 	// Replaces the placeholders in the template with the values from the current record

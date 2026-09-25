@@ -1,10 +1,14 @@
 {
   "mcpServers": {
-    "eggplant-gateway-42964": {
+    "eggplant-studio-50973": {
       "type": "streamable-http",
-      "url": "http://127.0.0.1:64939/mcp",
+      "url": "http://127.0.0.1:50973/mcp"
+    },
+    "eggplant-gateway-36252": {
+      "type": "streamable-http",
+      "url": "http://127.0.0.1:52584/mcp",
       "headers": {
-        "Authorization": "Basic OTEwZWFiNDEtNWM1NS00YTEyLWEzMjUtNGUzOWZlNTYxYzgwOmVhMzcwZGU3LTg0ODEtNDc5MC04Y2FiLWFmOWRkZWNjNDNiNw=="
+        "Authorization": "Basic MmQ1ODU0YzgtY2E2Zi00M2YwLWE3OTUtZTlhZDQzMzAyZDhhOmRlOGI4NDg5LWQ3N2ItNDBmOS1iYWJlLWZkMzExYzQxMmE0MQ=="
       }
     }
   }

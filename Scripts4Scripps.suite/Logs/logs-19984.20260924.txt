@@ -1,0 +1,2 @@
+2026-09-24 09:20:36.803 -04:00 [Information] Keysight.Gateways.ProcessNameWatcher: The parent process has exited; cleaning up any remaining adb processes.
+2026-09-24 09:20:36.866 -04:00 [Information] Keysight.Gateways.ProcessNameWatcher: Killing process adb (38448).
